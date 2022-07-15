@@ -1,1 +1,2 @@
 *.html linguist-detectable=false
+*.hlsl linguist-detectable=false
