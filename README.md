@@ -1,6 +1,6 @@
 # Poster-Seeker
 
-A game designed and built using the Unity platform. Both the project file and the actual executable (for Windows and Mac OS) are available. 
+A game designed and built using the Unity platform. Both the project file and the actual executable (for Windows and Mac OS) are available. This was my project for the Romanian "Certificate of Computer Science".
 
 ## How to run
 
