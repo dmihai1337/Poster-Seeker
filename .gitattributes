@@ -1,2 +1,2 @@
 *.html linguist-detectable=false
-*.asax linguist-detectable=false
+*.aspx linguist-detectable=false
