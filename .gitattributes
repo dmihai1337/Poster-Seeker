@@ -1,2 +1,3 @@
 *.html linguist-detectable=false
 *.aspnet linguist-detectable=false
+*.shaderlab linguist-detectable=false
